@@ -7,14 +7,14 @@ DEF OPT101P U 0 20 Y Y 1 F N
 F0 "U" -150 250 60 H V C C N N
 F1 "OPT101P" 100 -300 60 H V L C N N
 F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/opt101.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fopt101" 200 300 60 H I L C N N
 F4 "296-23090-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "OPT101P" 200 500 60 H I L CNN "MPN"
 F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Optical Sensors - Ambient Light, IR, UV Sensors" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/opt101.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fopt101" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/OPT101P/296-23090-5-ND/251177" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC PHOTODIODE/AMPLIFIER 8DIP" 200 1000 60 H I L CNN "Description"
+F10 "SENSOR OPT 650NM AMBIENT 8DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
@@ -36,14 +36,14 @@ DEF OPT3001DNPT U 0 20 Y Y 1 F N
 F0 "U" -200 350 60 H V C C N N
 F1 "OPT3001DNPT" 100 -300 60 H V L C N N
 F2 "digikey-footprints:UDFN-6-1EP_2x2mm_USON" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/opt3001.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fopt3001" 200 300 60 H I L C N N
 F4 "296-38667-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "OPT3001DNPT" 200 500 60 H I L CNN "MPN"
 F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Optical Sensors - Ambient Light, IR, UV Sensors" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/opt3001.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fopt3001" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/OPT3001DNPT/296-38667-1-ND/5114786" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC AMBIENT LIGHT SENSOR 6USON" 200 1000 60 H I L CNN "Description"
+F10 "SENSOR OPT 550NM AMBIENT 6USON" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
@@ -64,14 +64,14 @@ DEF SI1145-A10-GMR_NRND U 0 20 Y Y 1 F N
 F0 "U" -150 350 60 H V C C N N
 F1 "SI1145-A10-GMR_NRND" 100 -400 60 H V L C N N
 F2 "digikey-footprints:WFQFN-10_2x2mm" 200 200 60 H I L C N N
-F3 "https://www.silabs.com/Support%20Documents%2fTechnicalDocs%2fSi1145-46-47.pdf" 200 300 60 H I L C N N
+F3 "https://www.silabs.com/documents/public/data-sheets/Si1145-46-47.pdf" 200 300 60 H I L C N N
 F4 "336-2622-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SI1145-A10-GMR" 200 500 60 H I L CNN "MPN"
 F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Optical Sensors - Ambient Light, IR, UV Sensors" 200 700 60 H I L CNN "Family"
-F8 "https://www.silabs.com/Support%20Documents%2fTechnicalDocs%2fSi1145-46-47.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.silabs.com/documents/public/data-sheets/Si1145-46-47.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/silicon-labs/SI1145-A10-GMR/336-2622-1-ND/4515975" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "SENSOR DGTL UV INDEX 10QFN" 200 1000 60 H I L CNN "Description"
+F10 "SENSOR OPT 850NM AMB/UV 10QFN" 200 1000 60 H I L CNN "Description"
 F11 "Silicon Labs" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Not For New Designs" 200 1200 60 H I L CNN "Status"
 DRAW
@@ -102,7 +102,7 @@ F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Optical Sensors - Ambient Light, IR, UV Sensors" 200 700 60 H I L CNN "Family"
 F8 "https://dammedia.osram.info/media/resource/hires/osram-dam-2496447/SFH%205711.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/osram-opto-semiconductors-inc/SFH-5711-2-3-Z/475-1259-1-ND/1312602" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "LIGHT SENSOR AMBIENT SMD" 200 1000 60 H I L CNN "Description"
+F10 "SENSOR OPT 555NM AMBIENT 4SMD" 200 1000 60 H I L CNN "Description"
 F11 "OSRAM Opto Semiconductors Inc." 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
@@ -138,7 +138,7 @@ F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Optical Sensors - Ambient Light, IR, UV Sensors" 200 700 60 H I L CNN "Family"
 F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/c4/11/28/86/e6/26/44/b3/DM00112632.pdf/files/DM00112632.pdf/jcr:content/translations/en.DM00112632.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/stmicroelectronics/VL6180XV0NR-1/497-14702-1-ND/4854910" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "MOD TIME-OF-FLIGHT 3IN1 12LGA" 200 1000 60 H I L CNN "Description"
+F10 "SENSOR OPT AMBIENT 12SMD" 200 1000 60 H I L CNN "Description"
 F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
@@ -171,7 +171,7 @@ F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Optical Sensors - Ambient Light, IR, UV Sensors" 200 700 60 H I L CNN "Family"
 F8 "https://docs.broadcom.com/docs/AV02-4191EN" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/broadcom-limited/APDS-9960/516-3480-1-ND/6677150" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "SENSOR AMBIENT/PROX DGTL" 200 1000 60 H I L CNN "Description"
+F10 "SENSOR OPT 560NM AMBIENT MODULE" 200 1000 60 H I L CNN "Description"
 F11 "Broadcom Limited" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
@@ -187,11 +187,11 @@ X VDD 8 -100 400 100 D 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
-# MAX44009EDT_T
+# MAX44009EDT_T_LTB
 #
-DEF MAX44009EDT_T U 0 20 Y Y 1 F N
+DEF MAX44009EDT_T_LTB U 0 20 Y Y 1 F N
 F0 "U" -150 350 60 H V C C N N
-F1 "MAX44009EDT_T" 100 -300 60 H V L C N N
+F1 "MAX44009EDT_T_LTB" 100 -300 60 H V L C N N
 F2 "digikey-footprints:UDFN-6-1EP_2x2mm" 200 200 60 H I L C N N
 F3 "https://datasheets.maximintegrated.com/en/ds/MAX44009.pdf" 200 300 60 H I L C N N
 F4 "MAX44009EDT+TCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -200,9 +200,9 @@ F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Optical Sensors - Ambient Light, IR, UV Sensors" 200 700 60 H I L CNN "Family"
 F8 "https://datasheets.maximintegrated.com/en/ds/MAX44009.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/maxim-integrated/MAX44009EDT-T/MAX44009EDT-TCT-ND/2606396" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "SENSOR AMBIENT LIGHT 6UTDFN" 200 1000 60 H I L CNN "Description"
+F10 "SENSOR OPT AMBIENT 6OTDFN" 200 1000 60 H I L CNN "Description"
 F11 "Maxim Integrated" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F12 "Last Time Buy NonStock" 200 1200 60 H I L CNN "Status"
 DRAW
 X GND 7 0 -300 100 U 50 50 1 0 W
 S -200 300 200 -200 1 1 0 f
@@ -215,11 +215,11 @@ X SDA 6 -300 100 100 R 50 50 1 1 B
 ENDDRAW
 ENDDEF
 #
-# TSL235R-LF
+# TSL235R-LF_NRND
 #
-DEF TSL235R-LF U 0 20 Y Y 1 F N
+DEF TSL235R-LF_NRND U 0 20 Y Y 1 F N
 F0 "U" -150 250 60 H V C C N N
-F1 "TSL235R-LF" 100 -300 60 H V L C N N
+F1 "TSL235R-LF_NRND" 100 -300 60 H V L C N N
 F2 "digikey-footprints:Light_to_Freq_TSL235R-LF" 200 200 60 H I L C N N
 F3 "https://ams.com/documents/20143/36005/TSL235R_DS000120_3-00.pdf" 200 300 60 H I L C N N
 F4 "TSL235-R-LF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -228,9 +228,9 @@ F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Optical Sensors - Ambient Light, IR, UV Sensors" 200 700 60 H I L CNN "Family"
 F8 "https://ams.com/documents/20143/36005/TSL235R_DS000120_3-00.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/ams/TSL235R-LF/TSL235-R-LF-ND/3095040" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC LIGHT TO FREQUENCY CONV 3PIN" 200 1000 60 H I L CNN "Description"
+F10 "SENSOR OPT 635NM AMBIENT RADIAL" 200 1000 60 H I L CNN "Description"
 F11 "ams" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F12 "Not For New Designs" 200 1200 60 H I L CNN "Status"
 DRAW
 S 200 200 -150 -200 1 1 0 f
 X GND 1 0 -300 100 U 50 50 1 1 W
@@ -252,7 +252,7 @@ F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Optical Sensors - Ambient Light, IR, UV Sensors" 200 700 60 H I L CNN "Family"
 F8 "http://www.vishay.com/docs/84277/veml6070.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/vishay-semiconductor-opto-division/VEML6070/VEML6070CT-ND/5171286" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC UV LIGHT SENSOR I2C 8OPLGA" 200 1000 60 H I L CNN "Description"
+F10 "SENSOR OPT 335NM UV MODULE" 200 1000 60 H I L CNN "Description"
 F11 "Vishay Semiconductor Opto Division" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
